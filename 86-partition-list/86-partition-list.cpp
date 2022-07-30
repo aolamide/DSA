@@ -16,22 +16,22 @@ public:
         ListNode *lessThan = new ListNode(0);
         ListNode *lessThanTail = lessThan;
 
-        ListNode *greaterThan = new ListNode(0);
-        ListNode *greaterThanTail = greaterThan;
+        ListNode *greaterThanOrEqual = new ListNode(0);
+        ListNode *greaterThanOrEqualTail = greaterThanOrEqual;
 
         while(head) {
             if(head->val < x) {
                 lessThanTail->next = head;
                 lessThanTail = lessThanTail->next;
             } else {
-                greaterThanTail->next = head;
-                greaterThanTail = greaterThanTail->next;
+                greaterThanOrEqualTail->next = head;
+                greaterThanOrEqualTail = greaterThanOrEqualTail->next;
             }
             head = head->next;
         }
 
-        lessThanTail->next = greaterThan->next;
-        greaterThanTail->next = nullptr;
+        lessThanTail->next = greaterThanOrEqual->next;
+        greaterThanOrEqualTail->next = nullptr;
         
         return lessThan->next;
     }
