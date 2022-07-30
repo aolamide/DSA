@@ -13,32 +13,26 @@ public:
     ListNode* partition(ListNode* head, int x) {
         if(!head || !head->next) return head;
 
-        ListNode *currNode = head;
-        ListNode *tmp;
-
         ListNode *lessThan = new ListNode(0);
         ListNode *lessThanTail = lessThan;
 
         ListNode *greaterThan = new ListNode(0);
         ListNode *greaterThanTail = greaterThan;
 
-        while(currNode) {
-            tmp = currNode->next;
-            currNode->next = nullptr;
-
-            if(currNode->val < x) {
-                lessThanTail->next = currNode;
+        while(head) {
+            if(head->val < x) {
+                lessThanTail->next = head;
                 lessThanTail = lessThanTail->next;
             } else {
-                greaterThanTail->next = currNode;
+                greaterThanTail->next = head;
                 greaterThanTail = greaterThanTail->next;
             }
-
-            currNode = tmp;
+            head = head->next;
         }
 
         lessThanTail->next = greaterThan->next;
-
+        greaterThanTail->next = nullptr;
+        
         return lessThan->next;
     }
 };
