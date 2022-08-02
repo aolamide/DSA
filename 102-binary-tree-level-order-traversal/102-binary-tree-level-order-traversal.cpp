@@ -43,3 +43,7 @@ public:
         return result;
     }
 };
+
+//thought process
+//Implement BFS, but keep count of the number of nodes on each level
+//Group nodes based on this number per level.
