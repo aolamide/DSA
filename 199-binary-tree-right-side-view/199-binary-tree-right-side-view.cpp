@@ -48,22 +48,15 @@
 class Solution {
 public:
     vector<int> result;
-    set<int> levelSet;
     vector<int> rightSideView(TreeNode* root) {
         int level = 0;
-        
         preorder(root, level);
-
         return result;
     }
 private:
     void preorder(TreeNode *root, int level) {
         if(!root) return;
-        level++;
-        if(!levelSet.count(level)) {
-            result.push_back(root->val);
-            levelSet.insert(level);
-        }
+        if(++level > result.size()) result.push_back(root->val);
         preorder(root->right, level);
         preorder(root->left, level);
     }
