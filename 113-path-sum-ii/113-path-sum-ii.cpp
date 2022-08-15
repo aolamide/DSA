@@ -13,24 +13,28 @@ class Solution {
 public:
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         if(!root) return {};
+        vector<int> targetPaths;
         
-        helper(root, 0, targetSum, {});
+        helper(root, 0, targetSum, targetPaths);
         
         return result;
     }
     vector<vector<int>> result;
-    void helper(TreeNode* root, int sumSoFar, int target, vector<int> targetPaths) {
+    void helper(TreeNode* root, int sumSoFar, int target, vector<int> &targetPaths) {
         if(root) {
             sumSoFar += root->val;
             targetPaths.push_back(root->val);
             bool isLeaf = !root->left && !root->right;
             if(isLeaf && sumSoFar == target) {
                 result.push_back(targetPaths);
+                targetPaths.pop_back();
                 return;
             }
 
             helper(root->left, sumSoFar, target, targetPaths);
             helper(root->right, sumSoFar, target, targetPaths);
+            
+            targetPaths.pop_back();
         }
     }
 };
