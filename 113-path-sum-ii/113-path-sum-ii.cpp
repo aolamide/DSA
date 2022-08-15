@@ -27,8 +27,6 @@ public:
             bool isLeaf = !root->left && !root->right;
             if(isLeaf && sumSoFar == target) {
                 result.push_back(targetPaths);
-                targetPaths.pop_back();
-                return;
             }
 
             helper(root->left, sumSoFar, target, targetPaths);
