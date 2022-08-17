@@ -8,7 +8,7 @@ public:
   	for (int i = 0; i < words.size(); i++) {
         
   		string code;
-  		for (int j=0; j<words[i].size(); j++) code += codes[words[i][j] - 'a'];
+  		for (int j = 0; j < words[i].size(); j++) code += codes[words[i][j] - 'a'];
         
   		codeSet.insert(code);
   	 }
