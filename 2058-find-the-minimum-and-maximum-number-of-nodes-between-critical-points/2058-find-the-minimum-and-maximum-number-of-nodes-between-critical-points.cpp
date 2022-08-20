@@ -46,6 +46,6 @@ public:
 //keep track of previous node
 //compare previous node and next node to current node
 //store if it is a critical point
-//max distance if distance between first and last critical points
+//max distance is distance between first and last critical points
 //keep track of previous critical point and use the position of next critical point to determine min distance.
 //keep updating min distance
