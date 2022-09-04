@@ -1,6 +1,5 @@
 class Solution {
 public:
-    int count = 0;
     void dfs(vector<vector<char>>& board, int row, int col) {
         
         if(row < 0 || row >= board.size() || col < 0 || col >= board[0].size() || board[row][col] != 'O') return;
