@@ -9,12 +9,11 @@ public:
         }
         
         //Dijstra's algorithm
-        vector<float> shortest(n, INFINITY);
+        vector<int> shortest(n, INT_MAX);
         shortest[k - 1] = 0;
         
         priority_queue<pair<int,int>> pq;
         pq.push(make_pair(0, k - 1));
-        unordered_set<int> visited;
         
         while(!pq.empty()) {
             auto curr = pq.top();
@@ -23,24 +22,21 @@ public:
             vector<vector<int>> nodes = adjList[curr.second];
             
             for(vector<int> node : nodes) {
-                if(!visited.count(node[0])) {
-                    int newDist = shortest[curr.second] + node[1];
-                    if(newDist < shortest[node[0]]) {
-                        shortest[node[0]] = newDist;
-                        pq.push(make_pair(-1 * newDist, node[0]));
-                    }
+                int newDist = shortest[curr.second] + node[1];
+                if(newDist < shortest[node[0]]) {
+                    shortest[node[0]] = newDist;
+                    pq.push(make_pair(-1 * newDist, node[0]));
                 }
             }
-            visited.insert(curr.second); 
         }
         
-        float result = 0;
+        int result = 0;
         
-        for(float val : shortest) {
+        for(int val : shortest) {
             result = max(val, result);
         }
         
-        if(result == INFINITY) return -1;
-        return (int) result;
+        if(result == INT_MAX) return -1;
+        return result;
     }
 };
