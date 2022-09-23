@@ -14,7 +14,6 @@ private:
         
         if(dp[moves][r][c]) return dp[moves][r][c]; 
         
-        if(++count > 29700) cout << count << "\t";
         double prob;
         
         for(vector<int> dir : dirs) {
