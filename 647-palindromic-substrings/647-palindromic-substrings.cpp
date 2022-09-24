@@ -1,40 +1,28 @@
 class Solution {
 public:
-    string st;
-    vector<vector<int>> dp;
     int count = 0;
     
-    bool isPal(int l, int r) {
-        bool valid;
-        if(l > r) return true;
+    int isPal(string& st, int l, int r, vector<vector<int>>& dp) {
+        if(l >= r) return 1;
         
         if(dp[l][r] > -1) return dp[l][r];
         
-        if(l == r) {
-            valid = true;
-        } else {
-            valid = st[l] == st[r] && isPal(l + 1, r - 1);
-            isPal(l, r - 1);
-            isPal(l + 1, r);
-        }
+        dp[l][r] = st[l] == st[r] ? isPal(st, l + 1, r - 1, dp) : 0;
+        isPal(st, l, r - 1, dp);
+        isPal(st, l + 1, r, dp);
         
-        if(valid) {
-            count++;
-            dp[l][r] = 1;
-        } else {
-            dp[l][r] = 0;
-        }
+        count += dp[l][r];
         
-        return valid;
+        return dp[l][r];
     }
     
     int countSubstrings(string s) {
         int n = s.size();
-        st = s;
-        dp = vector<vector<int>>(n,  vector<int>(n, -1));
+        vector<vector<int>> dp = vector<vector<int>>(n,  vector<int>(n, -1));
         
-        isPal(0, n - 1);
+        isPal(s, 0, n - 1, dp);
         
-        return count;
+        return count + n;
     }
 };
+
