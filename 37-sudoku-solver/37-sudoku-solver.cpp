@@ -3,7 +3,6 @@ public:
     vector<unordered_set<char>> rows = vector<unordered_set<char>>(9);
     vector<unordered_set<char>> cols = vector<unordered_set<char>>(9);
     vector<unordered_set<char>> boxes = vector<unordered_set<char>>(9);
-    vector<char> vals = { '1', '2', '3', '4', '5', '6', '7', '8', '9' };
     
     bool isValid(int row, int col, char val) {
         return !rows[row].count(val) && !cols[col].count(val) && !boxes[getBoxId(row,col)].count(val);
@@ -28,7 +27,7 @@ public:
         if(board[row][col] != '.') {
             return recurse(nextPos[0], nextPos[1], board);
         } else {
-            for(char i : vals) {
+            for(char i = '1'; i <= '9'; i++) {
                 
                 board[row][col] = i;
                 
