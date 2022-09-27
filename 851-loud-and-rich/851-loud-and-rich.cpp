@@ -1,29 +1,29 @@
 class Solution {
 public:
-    unordered_map<int, int> quietMap;
     int dfs(int node, vector<vector<int>>& adjList, vector<int>& quiet, vector<int>& result) {
         
         if(result[node] != -1) return result[node];
         
         vector<int> adjs = adjList[node];
         
+        int ansNode = node;
         int ans = quiet[node];
         
         for(int adj : adjs) {
-            ans = min(ans, quiet[dfs(adj, adjList, quiet, result)]);
+            int resultNode  = dfs(adj, adjList, quiet, result);
+            if(ans > quiet[resultNode]) {
+                ansNode = resultNode;
+                ans = quiet[resultNode];
+            }
         }
         
-        result[node] = quietMap[ans];
+        result[node] = ansNode;
         
         return result[node];
     }
     vector<int> loudAndRich(vector<vector<int>>& richer, vector<int>& quiet) {
         int n = quiet.size();
         vector<vector<int>> adjList(n);
-        
-        for(int i = 0; i < n; i++) {
-            quietMap[quiet[i]] = i;
-        }
         
         for(vector<int> edge : richer) {
             adjList[edge[1]].push_back(edge[0]);
