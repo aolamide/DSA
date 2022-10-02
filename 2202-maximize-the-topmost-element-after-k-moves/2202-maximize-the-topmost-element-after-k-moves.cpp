@@ -2,6 +2,7 @@ class Solution {
 public:
     int maximumTop(vector<int>& nums, int k) {
         int maxIdx = 0;
+        
         if(k == 0) return nums[0];
         
         if(nums.size() == 1) {
