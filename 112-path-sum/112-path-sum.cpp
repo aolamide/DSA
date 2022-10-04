@@ -19,6 +19,7 @@ public:
         bool isLeaf = !root->left && !root->right;
         if(isLeaf && sumSoFar == target) return true;
         
+        
         return helper(root->left, sumSoFar, target) || helper(root->right, sumSoFar, target);
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
