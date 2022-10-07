@@ -8,7 +8,6 @@ public:
         }
         
         vector<int> dist(n, INT_MAX);
-        // shortest[src] = 0;
         
         priority_queue< vector<int>, vector<vector<int>>, greater<vector<int>> > pq;
         
