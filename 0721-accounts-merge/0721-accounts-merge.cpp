@@ -46,15 +46,6 @@ public:
             result.push_back(sub);
         }
         
-        
-        // for(auto list : adjList) {
-        //     cout << list.first << " : " ;
-        //     for(auto em : list.second) {
-        //         cout << em << ", ";
-        //     }
-        //     cout << endl;
-        // }
-        
         return result;
     }
 };
