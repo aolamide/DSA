@@ -1,29 +1,24 @@
 class Solution {
 public:
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
-        unordered_map<string, vector<string>> adjList;
+        unordered_map<string, unordered_set<string>> adjList;
         unordered_map<string, string> namesMap;
         vector<vector<string>> result;
         
         for(int i = 0; i < accounts.size(); i++) {
-            string last = "";
+            string last = accounts[i][1];
             string name = accounts[i][0];
+            
             for(int j = 1; j < accounts[i].size(); j++) {
-                
-                if(!adjList.count(accounts[i][j])) {
-                    adjList[accounts[i][j]] = {};
-                    namesMap[accounts[i][j]] = name;
-                    // if(last.size() && last != accounts[i][j]) {
-                    //     adjList[last].push_back(accounts[i][j]);
-                    // }
-                    
+                string curr = accounts[i][j];
+                if(!adjList.count(curr)) {
+                    adjList[curr] = {};
+                    namesMap[curr] = name;
                 }
-                if(last.size() && last != accounts[i][j]){
-                    adjList[last].push_back(accounts[i][j]);
-                    adjList[accounts[i][j]].push_back(last);
+                if(last != curr){
+                    adjList[last].insert(curr);
+                    adjList[curr].insert(last);
                 }
-                
-                last = accounts[i][j];
             }
         }
         unordered_set<string> seen;
