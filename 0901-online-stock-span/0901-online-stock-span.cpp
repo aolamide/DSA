@@ -7,19 +7,14 @@ public:
     }
     
     int next(int price) {
-        if(s.empty()) {
-            s.push({price, 1});
-            return 1;
-        } else {
-            int count = 1;
-            while(!s.empty() && s.top().first <= price) {
-                auto top = s.top();
-                count += top.second;
-                s.pop();
-            }
-            s.push({price, count});
-            return count;
+        int count = 1;
+        while(!s.empty() && s.top().first <= price) {
+            auto top = s.top();
+            count += top.second;
+            s.pop();
         }
+        s.push({price, count});
+        return count;
     }
 };
 
