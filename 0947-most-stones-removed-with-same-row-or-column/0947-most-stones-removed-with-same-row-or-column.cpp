@@ -55,12 +55,12 @@ public:
         }
 
         int result = 0;
+        unordered_set<int> groups;
+        
         for(int i = 0; i < stones.size(); i++) {
-            int parent = DisjointSet.find(i);
-            result += DisjointSet.sizes[parent] - 1;
-            DisjointSet.sizes[parent] = 1;
+            groups.insert(DisjointSet.find(i));
         }
         
-        return result;
+        return stones.size() - groups.size();
     }
 };
