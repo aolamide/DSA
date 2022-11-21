@@ -20,6 +20,7 @@ public:
             // cout << r << " " << c << " " << " " << steps << endl;
             //if at border, check steps
             if((r == 0 || c == 0 || r == maze.size() - 1 || c == maze[0].size() - 1) && !(r == entrance[0] && c == entrance[1])) {
+                return steps;
                 result = min(result, steps);
             }
             // cout << result << endl;
