@@ -1,9 +1,7 @@
 class Solution {
 public:
     int maxDepth(string s) {
-        int openings = 0;
         int depth = 0;
-        
         int answer = 0;
         
         for(char ch : s) {
