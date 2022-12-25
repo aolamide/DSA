@@ -5,7 +5,6 @@ public:
         
         while(l <= r) {
             int mid = l + (r - l)/2;
-            // cout << nums[l] << " " << nums[mid] << " " << nums[r] << endl;
             if(nums[mid] == target) return mid;
             
             if(nums[mid] < nums[l]) {
@@ -15,20 +14,14 @@ public:
                 } else {
                     l = mid + 1;
                 }
-            } else if(nums[mid] > nums[r]) {
-                //array is rotated and mid is in left part
+            } else  {
+                //array is rotated and mid is in left part OR fully sorted array
                 if(nums[l] <= target && nums[mid] > target) {
                     r = mid - 1;
                 } else {
                     l = mid + 1;
                 }
-            } else {
-                if(nums[mid] > target) {
-                    r = mid -1;
-                } else {
-                    l = mid + 1;
-                }
-            }
+            } 
         }
         
         return -1;
