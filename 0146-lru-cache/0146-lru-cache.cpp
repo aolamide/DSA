@@ -71,7 +71,7 @@ public:
     void removeNode(Node* node) {
         node->prev->next = node->next;
         node->next->prev = node->prev;
-        mp.erase(node->val.first);
+        // mp.erase(node->val.first);
     }
     int get(int key) {
         if(!mp.count(key)) return -1;
@@ -90,31 +90,17 @@ public:
             
         } else {
             if(currSize == capacity) {
-                //remove first node
+                mp.erase(start->next->val.first);
                 removeNode(start->next);
                 currSize--;
             }
-            
-            //insert node
             Node *newNode = new Node({ key, value });
             addNode(newNode);
             currSize++;
         }
-        
-        // Node *root = start;
-        // while(root) {
-        //     cout << root->val.first << "-" << root->val.second << "   ";
-        //     root = root->next;
-        // }
-        // cout << endl;
     }
 };
 
-// ["LRUCache","put","put","get","put","put","get"]
-// [[2],[2,1],[2,2],[2],[1,1],[4,1],[2]]
-
-// ["LRUCache","put","put","put","put","get","get"]
-// [[2],[2,1],[1,1],[2,3],[4,1],[1],[2]]
 /**
  * Your LRUCache object will be instantiated and called as such:
  * LRUCache* obj = new LRUCache(capacity);
