@@ -1,12 +1,7 @@
-class Node {
-public:
+struct Node {
     Node *prev, *next;
     string val;
-    Node(string page) {
-        val = page;
-        prev = NULL;
-        next = NULL;
-    }
+    Node(string page) : val(page), prev(nullptr), next(nullptr) {};
 };
 
 class BrowserHistory {
