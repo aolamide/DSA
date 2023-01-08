@@ -1,3 +1,14 @@
+// class Node {
+// public:
+//     Node *prev, *next;
+//     string val;
+//     Node(string page) {
+//         val = page;
+//         prev = NULL;
+//         next = NULL;
+//     }
+// };
+
 struct Node {
     Node *prev, *next;
     string val;
