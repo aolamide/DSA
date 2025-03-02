@@ -8,10 +8,20 @@ Collection of my solutions to DSA questions.
 | ------- |
 | [0205-isomorphic-strings](https://github.com/aolamide/DSA/tree/master/0205-isomorphic-strings) |
 | [0551-student-attendance-record-i](https://github.com/aolamide/DSA/tree/master/0551-student-attendance-record-i) |
+| [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/aolamide/DSA/tree/master/0889-buddy-strings) |
 ## Hash Table
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/aolamide/DSA/tree/master/0205-isomorphic-strings) |
+| [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/aolamide/DSA/tree/master/0889-buddy-strings) |
+## Array
+|  |
+| ------- |
+| [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
+## Counting
+|  |
+| ------- |
+| [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 <!---LeetCode Topics End-->
