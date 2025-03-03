@@ -10,6 +10,7 @@ Collection of my solutions to DSA questions.
 | [0551-student-attendance-record-i](https://github.com/aolamide/DSA/tree/master/0551-student-attendance-record-i) |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/aolamide/DSA/tree/master/0889-buddy-strings) |
+| [3636-check-balanced-string](https://github.com/aolamide/DSA/tree/master/3636-check-balanced-string) |
 ## Hash Table
 |  |
 | ------- |
