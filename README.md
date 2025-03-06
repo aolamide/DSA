@@ -20,10 +20,12 @@ Collection of my solutions to DSA questions.
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/aolamide/DSA/tree/master/0889-buddy-strings) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/aolamide/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
+| [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
@@ -33,4 +35,12 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0961-long-pressed-name](https://github.com/aolamide/DSA/tree/master/0961-long-pressed-name) |
+## Math
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
