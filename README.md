@@ -6,6 +6,7 @@ Collection of my solutions to DSA questions.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aolamide/DSA/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/aolamide/DSA/tree/master/0205-isomorphic-strings) |
 | [0551-student-attendance-record-i](https://github.com/aolamide/DSA/tree/master/0551-student-attendance-record-i) |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
@@ -43,4 +44,8 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aolamide/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
