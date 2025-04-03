@@ -7,6 +7,7 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aolamide/DSA/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/aolamide/DSA/tree/master/0205-isomorphic-strings) |
 | [0551-student-attendance-record-i](https://github.com/aolamide/DSA/tree/master/0551-student-attendance-record-i) |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
@@ -27,6 +28,7 @@ Collection of my solutions to DSA questions.
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aolamide/DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aolamide/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -47,9 +49,18 @@ Collection of my solutions to DSA questions.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aolamide/DSA/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
