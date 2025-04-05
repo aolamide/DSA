@@ -64,17 +64,21 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
+| [0199-binary-tree-right-side-view](https://github.com/aolamide/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aolamide/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/aolamide/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aolamide/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/aolamide/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aolamide/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/aolamide/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aolamide/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
