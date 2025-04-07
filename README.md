@@ -26,6 +26,7 @@ Collection of my solutions to DSA questions.
 | [2406-decode-the-message](https://github.com/aolamide/DSA/tree/master/2406-decode-the-message) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/aolamide/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aolamide/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Collection of my solutions to DSA questions.
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aolamide/DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aolamide/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aolamide/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Counting
 |  |
 | ------- |
@@ -81,4 +83,8 @@ Collection of my solutions to DSA questions.
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/aolamide/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aolamide/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aolamide/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
