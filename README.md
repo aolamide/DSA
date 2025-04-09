@@ -33,6 +33,7 @@ Collection of my solutions to DSA questions.
 | ------- |
 | [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/aolamide/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aolamide/DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aolamide/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -88,5 +89,10 @@ Collection of my solutions to DSA questions.
 ## Simulation
 |  |
 | ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/aolamide/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aolamide/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/aolamide/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
