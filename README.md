@@ -54,6 +54,7 @@ Collection of my solutions to DSA questions.
 ## Math
 |  |
 | ------- |
+| [2998-count-symmetric-integers](https://github.com/aolamide/DSA/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -99,4 +100,8 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aolamide/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/aolamide/DSA/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
