@@ -34,6 +34,7 @@ Collection of my solutions to DSA questions.
 | ------- |
 | [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
+| [1755-defuse-the-bomb](https://github.com/aolamide/DSA/tree/master/1755-defuse-the-bomb) |
 | [2232-adding-spaces-to-a-string](https://github.com/aolamide/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aolamide/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aolamide/DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -104,4 +105,8 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/aolamide/DSA/tree/master/2998-count-symmetric-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/aolamide/DSA/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
