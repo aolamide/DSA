@@ -9,6 +9,7 @@ Collection of my solutions to DSA questions.
 | [0014-longest-common-prefix](https://github.com/aolamide/DSA/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/aolamide/DSA/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/aolamide/DSA/tree/master/0392-is-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/aolamide/DSA/tree/master/0551-student-attendance-record-i) |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/aolamide/DSA/tree/master/0889-buddy-strings) |
@@ -50,6 +51,7 @@ Collection of my solutions to DSA questions.
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/aolamide/DSA/tree/master/0392-is-subsequence) |
 | [0961-long-pressed-name](https://github.com/aolamide/DSA/tree/master/0961-long-pressed-name) |
 | [2232-adding-spaces-to-a-string](https://github.com/aolamide/DSA/tree/master/2232-adding-spaces-to-a-string) |
 ## Math
@@ -109,4 +111,8 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/aolamide/DSA/tree/master/1755-defuse-the-bomb) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/aolamide/DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
