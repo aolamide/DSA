@@ -15,6 +15,7 @@ Collection of my solutions to DSA questions.
 | [0889-buddy-strings](https://github.com/aolamide/DSA/tree/master/0889-buddy-strings) |
 | [0961-long-pressed-name](https://github.com/aolamide/DSA/tree/master/0961-long-pressed-name) |
 | [2232-adding-spaces-to-a-string](https://github.com/aolamide/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2390-naming-a-company](https://github.com/aolamide/DSA/tree/master/2390-naming-a-company) |
 | [2406-decode-the-message](https://github.com/aolamide/DSA/tree/master/2406-decode-the-message) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/aolamide/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3636-check-balanced-string](https://github.com/aolamide/DSA/tree/master/3636-check-balanced-string) |
@@ -25,6 +26,7 @@ Collection of my solutions to DSA questions.
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/aolamide/DSA/tree/master/0889-buddy-strings) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aolamide/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2390-naming-a-company](https://github.com/aolamide/DSA/tree/master/2390-naming-a-company) |
 | [2406-decode-the-message](https://github.com/aolamide/DSA/tree/master/2406-decode-the-message) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/aolamide/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -38,6 +40,7 @@ Collection of my solutions to DSA questions.
 | [1656-count-good-triplets](https://github.com/aolamide/DSA/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/aolamide/DSA/tree/master/1755-defuse-the-bomb) |
 | [2232-adding-spaces-to-a-string](https://github.com/aolamide/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2390-naming-a-company](https://github.com/aolamide/DSA/tree/master/2390-naming-a-company) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aolamide/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aolamide/DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aolamide/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -108,6 +111,7 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/aolamide/DSA/tree/master/1656-count-good-triplets) |
+| [2390-naming-a-company](https://github.com/aolamide/DSA/tree/master/2390-naming-a-company) |
 | [2998-count-symmetric-integers](https://github.com/aolamide/DSA/tree/master/2998-count-symmetric-integers) |
 ## Sliding Window
 |  |
@@ -117,4 +121,8 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/aolamide/DSA/tree/master/0392-is-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2390-naming-a-company](https://github.com/aolamide/DSA/tree/master/2390-naming-a-company) |
 <!---LeetCode Topics End-->
