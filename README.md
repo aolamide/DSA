@@ -7,6 +7,7 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aolamide/DSA/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/aolamide/DSA/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/aolamide/DSA/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/aolamide/DSA/tree/master/0392-is-subsequence) |
