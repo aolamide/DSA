@@ -15,6 +15,7 @@ Collection of my solutions to DSA questions.
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/aolamide/DSA/tree/master/0889-buddy-strings) |
 | [0961-long-pressed-name](https://github.com/aolamide/DSA/tree/master/0961-long-pressed-name) |
+| [1777-determine-if-two-strings-are-close](https://github.com/aolamide/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2232-adding-spaces-to-a-string](https://github.com/aolamide/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2390-naming-a-company](https://github.com/aolamide/DSA/tree/master/2390-naming-a-company) |
 | [2406-decode-the-message](https://github.com/aolamide/DSA/tree/master/2406-decode-the-message) |
@@ -27,6 +28,7 @@ Collection of my solutions to DSA questions.
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/aolamide/DSA/tree/master/0889-buddy-strings) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aolamide/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1777-determine-if-two-strings-are-close](https://github.com/aolamide/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2390-naming-a-company](https://github.com/aolamide/DSA/tree/master/2390-naming-a-company) |
 | [2406-decode-the-message](https://github.com/aolamide/DSA/tree/master/2406-decode-the-message) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/aolamide/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -52,6 +54,7 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
+| [1777-determine-if-two-strings-are-close](https://github.com/aolamide/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/aolamide/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Two Pointers
 |  |
@@ -126,4 +129,8 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [2390-naming-a-company](https://github.com/aolamide/DSA/tree/master/2390-naming-a-company) |
+## Sorting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/aolamide/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
