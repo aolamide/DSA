@@ -65,6 +65,7 @@ Collection of my solutions to DSA questions.
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/aolamide/DSA/tree/master/0223-rectangle-area) |
 | [2998-count-symmetric-integers](https://github.com/aolamide/DSA/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -133,4 +134,8 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/aolamide/DSA/tree/master/1777-determine-if-two-strings-are-close) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/aolamide/DSA/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
