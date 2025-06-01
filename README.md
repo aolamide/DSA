@@ -42,6 +42,7 @@ Collection of my solutions to DSA questions.
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [1656-count-good-triplets](https://github.com/aolamide/DSA/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/aolamide/DSA/tree/master/1755-defuse-the-bomb) |
+| [1803-average-waiting-time](https://github.com/aolamide/DSA/tree/master/1803-average-waiting-time) |
 | [2232-adding-spaces-to-a-string](https://github.com/aolamide/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2390-naming-a-company](https://github.com/aolamide/DSA/tree/master/2390-naming-a-company) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aolamide/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -105,6 +106,7 @@ Collection of my solutions to DSA questions.
 ## Simulation
 |  |
 | ------- |
+| [1803-average-waiting-time](https://github.com/aolamide/DSA/tree/master/1803-average-waiting-time) |
 | [2232-adding-spaces-to-a-string](https://github.com/aolamide/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aolamide/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aolamide/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
