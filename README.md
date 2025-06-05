@@ -25,6 +25,7 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/aolamide/DSA/tree/master/0205-isomorphic-strings) |
+| [0355-design-twitter](https://github.com/aolamide/DSA/tree/master/0355-design-twitter) |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/aolamide/DSA/tree/master/0889-buddy-strings) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aolamide/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -121,6 +122,7 @@ Collection of my solutions to DSA questions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/aolamide/DSA/tree/master/0355-design-twitter) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aolamide/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Enumeration
 |  |
@@ -152,6 +154,7 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aolamide/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0355-design-twitter](https://github.com/aolamide/DSA/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
@@ -160,4 +163,8 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aolamide/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/aolamide/DSA/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
