@@ -1,47 +1,41 @@
- struct DListNode {
+ struct TListNode {
     pair<int, int> val;
-    DListNode *next;
-    DListNode *prev;
-    DListNode() : val({0, 0}), next(nullptr), prev(nullptr) {}
-    DListNode(pair<int, int> x) : val(x), next(nullptr), prev(nullptr) {}
-    DListNode(pair<int, int> x, DListNode *next) : val(x), next(next), prev(nullptr) {}
+    TListNode *next;
+    TListNode(pair<int, int> x) : val(x), next(nullptr) {}
 };
 
 class Twitter {
 private:
-    DListNode* tail = nullptr;
+    TListNode* head = nullptr;
     unordered_map<int, unordered_set<int>> followers;
 public:
-    Twitter() {
-        
-    }
+    Twitter() {}
     
     void postTweet(int userId, int tweetId) {
-        if(!tail) {
-            tail = new DListNode({ userId, tweetId });
-        } else {
-            DListNode* newNode = new DListNode({ userId, tweetId });
-            tail->next = newNode;
-            newNode->prev = tail;
-            tail = newNode;
-        }
+        //create new node and set node as new head
+        TListNode* newTweet = new TListNode({ userId, tweetId });
+        newTweet->next = head;
+        head = newTweet;
     }
     
     vector<int> getNewsFeed(int userId) {
         vector<int> feed;
-        DListNode* currTail = tail;
+        TListNode* currHead = head;
+
         //get followers
         unordered_set<int>& following = followers[userId];
 
-        //Load last ten tweets from followers
-        while(currTail && feed.size() < 10) {
-            int posterId = currTail->val.first;
+        //Load last ten tweets from followers or self
+        while(currHead && feed.size() < 10) {
+            int posterId = currHead->val.first;
+
             if(following.count(posterId) || posterId == userId) {
-                feed.push_back(currTail->val.second);
-            } 
-            currTail = currTail->prev;
+                feed.push_back(currHead->val.second);
+            }
+
+            currHead = currHead->next;
         }
-        
+
         return feed;
     }
     
