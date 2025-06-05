@@ -49,6 +49,7 @@ Collection of my solutions to DSA questions.
 | [2232-adding-spaces-to-a-string](https://github.com/aolamide/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2390-naming-a-company](https://github.com/aolamide/DSA/tree/master/2390-naming-a-company) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aolamide/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/aolamide/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aolamide/DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aolamide/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -77,6 +78,7 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/aolamide/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Trie
 |  |
@@ -92,6 +94,7 @@ Collection of my solutions to DSA questions.
 | [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/aolamide/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aolamide/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/aolamide/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -102,6 +105,7 @@ Collection of my solutions to DSA questions.
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/aolamide/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aolamide/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/aolamide/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -152,4 +156,8 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aolamide/DSA/tree/master/0203-remove-linked-list-elements) |
+## Union Find
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/aolamide/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
