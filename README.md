@@ -15,6 +15,7 @@ Collection of my solutions to DSA questions.
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/aolamide/DSA/tree/master/0889-buddy-strings) |
 | [0961-long-pressed-name](https://github.com/aolamide/DSA/tree/master/0961-long-pressed-name) |
+| [0962-flip-string-to-monotone-increasing](https://github.com/aolamide/DSA/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1777-determine-if-two-strings-are-close](https://github.com/aolamide/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2232-adding-spaces-to-a-string](https://github.com/aolamide/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2390-naming-a-company](https://github.com/aolamide/DSA/tree/master/2390-naming-a-company) |
@@ -138,6 +139,7 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/aolamide/DSA/tree/master/0392-is-subsequence) |
+| [0962-flip-string-to-monotone-increasing](https://github.com/aolamide/DSA/tree/master/0962-flip-string-to-monotone-increasing) |
 ## Bit Manipulation
 |  |
 | ------- |
