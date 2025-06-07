@@ -34,6 +34,7 @@ Collection of my solutions to DSA questions.
 | [1777-determine-if-two-strings-are-close](https://github.com/aolamide/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2390-naming-a-company](https://github.com/aolamide/DSA/tree/master/2390-naming-a-company) |
 | [2406-decode-the-message](https://github.com/aolamide/DSA/tree/master/2406-decode-the-message) |
+| [2434-design-a-number-container-system](https://github.com/aolamide/DSA/tree/master/2434-design-a-number-container-system) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/aolamide/DSA/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aolamide/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -124,6 +125,7 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/aolamide/DSA/tree/master/0355-design-twitter) |
+| [2434-design-a-number-container-system](https://github.com/aolamide/DSA/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aolamide/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Enumeration
 |  |
@@ -169,4 +171,9 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/aolamide/DSA/tree/master/0355-design-twitter) |
+| [2434-design-a-number-container-system](https://github.com/aolamide/DSA/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/aolamide/DSA/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
