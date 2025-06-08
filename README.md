@@ -56,6 +56,7 @@ Collection of my solutions to DSA questions.
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aolamide/DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aolamide/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/aolamide/DSA/tree/master/3321-type-of-triangle) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aolamide/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aolamide/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Counting
@@ -77,6 +78,7 @@ Collection of my solutions to DSA questions.
 | [0223-rectangle-area](https://github.com/aolamide/DSA/tree/master/0223-rectangle-area) |
 | [2998-count-symmetric-integers](https://github.com/aolamide/DSA/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/aolamide/DSA/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/aolamide/DSA/tree/master/1777-determine-if-two-strings-are-close) |
+| [3321-type-of-triangle](https://github.com/aolamide/DSA/tree/master/3321-type-of-triangle) |
 ## Geometry
 |  |
 | ------- |
