@@ -25,6 +25,7 @@ Collection of my solutions to DSA questions.
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aolamide/DSA/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/aolamide/DSA/tree/master/0205-isomorphic-strings) |
 | [0355-design-twitter](https://github.com/aolamide/DSA/tree/master/0355-design-twitter) |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
@@ -160,6 +161,7 @@ Collection of my solutions to DSA questions.
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aolamide/DSA/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/aolamide/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/aolamide/DSA/tree/master/0355-design-twitter) |
 ## Recursion
@@ -173,10 +175,15 @@ Collection of my solutions to DSA questions.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aolamide/DSA/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/aolamide/DSA/tree/master/0355-design-twitter) |
 | [2434-design-a-number-container-system](https://github.com/aolamide/DSA/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/aolamide/DSA/tree/master/2434-design-a-number-container-system) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aolamide/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
