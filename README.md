@@ -44,6 +44,7 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/aolamide/DSA/tree/master/0200-number-of-islands) |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aolamide/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/aolamide/DSA/tree/master/1293-three-consecutive-odds) |
@@ -84,6 +85,7 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/aolamide/DSA/tree/master/0200-number-of-islands) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aolamide/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/aolamide/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Trie
@@ -99,6 +101,7 @@ Collection of my solutions to DSA questions.
 | ------- |
 | [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/aolamide/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aolamide/DSA/tree/master/0200-number-of-islands) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aolamide/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aolamide/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Tree
@@ -110,6 +113,7 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/aolamide/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aolamide/DSA/tree/master/0200-number-of-islands) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aolamide/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aolamide/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -171,6 +175,7 @@ Collection of my solutions to DSA questions.
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aolamide/DSA/tree/master/0200-number-of-islands) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aolamide/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Design
 |  |
