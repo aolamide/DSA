@@ -1,27 +1,28 @@
 class RandomizedSet {
 private:
-    unordered_map<int, int> mp;
     vector<int> vals;
+    unordered_map<int, int> valsMap;
 public:
     RandomizedSet() {
         
     }
     
     bool insert(int val) {
-        if(mp.count(val)) return false;
+        if(valsMap.count(val)) return false;
         vals.push_back(val);
-        mp[val] = vals.size() - 1;
+        valsMap[val] = vals.size() - 1;
         return true;
     }
     
     bool remove(int val) {
-        if(!mp.count(val)) return false;
-        int removeIdx = mp[val];
-        
-        vals[removeIdx] = vals[vals.size() - 1];
-        mp[vals[vals.size() - 1]] = removeIdx;
+        if(!valsMap.count(val)) return false;
+
+        int backNum = vals[vals.size() - 1];
+        vals[valsMap[val]] = backNum;
+        valsMap[backNum] = valsMap[val]; 
         vals.pop_back();
-        mp.erase(val);
+
+        valsMap.erase(val);
         return true;
     }
     
