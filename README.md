@@ -6,6 +6,7 @@ Collection of my solutions to DSA questions.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aolamide/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/aolamide/DSA/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/aolamide/DSA/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
@@ -25,6 +26,7 @@ Collection of my solutions to DSA questions.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aolamide/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/aolamide/DSA/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/aolamide/DSA/tree/master/0205-isomorphic-strings) |
 | [0355-design-twitter](https://github.com/aolamide/DSA/tree/master/0355-design-twitter) |
@@ -146,6 +148,7 @@ Collection of my solutions to DSA questions.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aolamide/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1755-defuse-the-bomb](https://github.com/aolamide/DSA/tree/master/1755-defuse-the-bomb) |
 ## Dynamic Programming
 |  |
