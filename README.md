@@ -11,6 +11,7 @@ Collection of my solutions to DSA questions.
 | [0038-count-and-say](https://github.com/aolamide/DSA/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/aolamide/DSA/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/aolamide/DSA/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/aolamide/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/aolamide/DSA/tree/master/0392-is-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/aolamide/DSA/tree/master/0551-student-attendance-record-i) |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
@@ -32,6 +33,7 @@ Collection of my solutions to DSA questions.
 | [0205-isomorphic-strings](https://github.com/aolamide/DSA/tree/master/0205-isomorphic-strings) |
 | [0355-design-twitter](https://github.com/aolamide/DSA/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aolamide/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0387-first-unique-character-in-a-string](https://github.com/aolamide/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/aolamide/DSA/tree/master/0889-buddy-strings) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aolamide/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -70,6 +72,7 @@ Collection of my solutions to DSA questions.
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aolamide/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aolamide/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/aolamide/DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -205,4 +208,8 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/aolamide/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aolamide/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
