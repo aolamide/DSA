@@ -39,13 +39,11 @@ public:
         }
 
         for(int j = 0; j < list.size(); j++) {
-            cout << j;
             if(i == j) continue;
             Transaction compareCurr = list[j];
 
             if((curr.name == compareCurr.name) && (abs(curr.time - compareCurr.time) <= 60) && (curr.city != compareCurr.city)) {
                 marked[i] = 1;
-                // marked[j] = 1;
                 break;
             }
         }
