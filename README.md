@@ -18,6 +18,7 @@ Collection of my solutions to DSA questions.
 | [0889-buddy-strings](https://github.com/aolamide/DSA/tree/master/0889-buddy-strings) |
 | [0961-long-pressed-name](https://github.com/aolamide/DSA/tree/master/0961-long-pressed-name) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/aolamide/DSA/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1272-invalid-transactions](https://github.com/aolamide/DSA/tree/master/1272-invalid-transactions) |
 | [1512-design-underground-system](https://github.com/aolamide/DSA/tree/master/1512-design-underground-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/aolamide/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2232-adding-spaces-to-a-string](https://github.com/aolamide/DSA/tree/master/2232-adding-spaces-to-a-string) |
@@ -38,6 +39,7 @@ Collection of my solutions to DSA questions.
 | [0889-buddy-strings](https://github.com/aolamide/DSA/tree/master/0889-buddy-strings) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aolamide/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aolamide/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1272-invalid-transactions](https://github.com/aolamide/DSA/tree/master/1272-invalid-transactions) |
 | [1512-design-underground-system](https://github.com/aolamide/DSA/tree/master/1512-design-underground-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/aolamide/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2390-naming-a-company](https://github.com/aolamide/DSA/tree/master/2390-naming-a-company) |
@@ -55,6 +57,7 @@ Collection of my solutions to DSA questions.
 | [0380-insert-delete-getrandom-o1](https://github.com/aolamide/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0837-most-common-word](https://github.com/aolamide/DSA/tree/master/0837-most-common-word) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aolamide/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1272-invalid-transactions](https://github.com/aolamide/DSA/tree/master/1272-invalid-transactions) |
 | [1293-three-consecutive-odds](https://github.com/aolamide/DSA/tree/master/1293-three-consecutive-odds) |
 | [1656-count-good-triplets](https://github.com/aolamide/DSA/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/aolamide/DSA/tree/master/1755-defuse-the-bomb) |
@@ -167,6 +170,7 @@ Collection of my solutions to DSA questions.
 ## Sorting
 |  |
 | ------- |
+| [1272-invalid-transactions](https://github.com/aolamide/DSA/tree/master/1272-invalid-transactions) |
 | [1777-determine-if-two-strings-are-close](https://github.com/aolamide/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [3321-type-of-triangle](https://github.com/aolamide/DSA/tree/master/3321-type-of-triangle) |
 ## Geometry
