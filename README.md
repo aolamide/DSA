@@ -196,6 +196,7 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aolamide/DSA/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/aolamide/DSA/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/aolamide/DSA/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aolamide/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1512-design-underground-system](https://github.com/aolamide/DSA/tree/master/1512-design-underground-system) |
@@ -216,4 +217,8 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aolamide/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aolamide/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
