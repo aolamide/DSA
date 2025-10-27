@@ -12,27 +12,36 @@
 class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
-        //use bfs, keep count of how many nodes are in a level, and store last member of level.
         if(!root) return {};
-        queue<TreeNode*> q;
-        q.push(root);
-        int levelCount = 1, currCount = 0;
 
         vector<int> result;
 
+        queue<TreeNode*> q;
+        int currRowCount = 1;
+        q.push(root);
+
         while(!q.empty()) {
-            TreeNode* curr = q.front();
+            TreeNode* currNode = q.front();
             q.pop();
+            if(currNode->left) q.push(currNode->left);
+            if(currNode->right) q.push(currNode->right);
 
-            if(curr->left) q.push(curr->left);
-            if(curr->right) q.push(curr->right);
-
-            if(++currCount == levelCount) {
-                result.push_back(curr->val);
-                levelCount = q.size();
-                currCount = 0;
+            currRowCount--;
+            if(currRowCount == 0) {
+                result.push_back(currNode->val);
+                currRowCount = q.size();
             }
         }
+
         return result;
     }
 };
+
+//bfs
+//pick first node, add to results array, push children to queue
+
+//start with count of 1 for root node
+//after a node is treated, push children and decrement count
+//if count is 0, that is a right side node
+//count how many items are currently in queue and set count to that
+//continue till end.
