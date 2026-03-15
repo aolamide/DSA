@@ -42,6 +42,7 @@ Collection of my solutions to DSA questions.
 | [1272-invalid-transactions](https://github.com/aolamide/DSA/tree/master/1272-invalid-transactions) |
 | [1512-design-underground-system](https://github.com/aolamide/DSA/tree/master/1512-design-underground-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/aolamide/DSA/tree/master/1777-determine-if-two-strings-are-close) |
+| [2043-simple-bank-system](https://github.com/aolamide/DSA/tree/master/2043-simple-bank-system) |
 | [2390-naming-a-company](https://github.com/aolamide/DSA/tree/master/2390-naming-a-company) |
 | [2406-decode-the-message](https://github.com/aolamide/DSA/tree/master/2406-decode-the-message) |
 | [2434-design-a-number-container-system](https://github.com/aolamide/DSA/tree/master/2434-design-a-number-container-system) |
@@ -62,6 +63,7 @@ Collection of my solutions to DSA questions.
 | [1656-count-good-triplets](https://github.com/aolamide/DSA/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/aolamide/DSA/tree/master/1755-defuse-the-bomb) |
 | [1803-average-waiting-time](https://github.com/aolamide/DSA/tree/master/1803-average-waiting-time) |
+| [2043-simple-bank-system](https://github.com/aolamide/DSA/tree/master/2043-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/aolamide/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2390-naming-a-company](https://github.com/aolamide/DSA/tree/master/2390-naming-a-company) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aolamide/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -138,6 +140,7 @@ Collection of my solutions to DSA questions.
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/aolamide/DSA/tree/master/1803-average-waiting-time) |
+| [2043-simple-bank-system](https://github.com/aolamide/DSA/tree/master/2043-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/aolamide/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aolamide/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aolamide/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -200,6 +203,7 @@ Collection of my solutions to DSA questions.
 | [0355-design-twitter](https://github.com/aolamide/DSA/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aolamide/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1512-design-underground-system](https://github.com/aolamide/DSA/tree/master/1512-design-underground-system) |
+| [2043-simple-bank-system](https://github.com/aolamide/DSA/tree/master/2043-simple-bank-system) |
 | [2434-design-a-number-container-system](https://github.com/aolamide/DSA/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
